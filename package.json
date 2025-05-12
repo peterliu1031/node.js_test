@@ -16,5 +16,8 @@
     "url": "https://github.com/peterliu1031/node.js_test/issues"
   },
   "homepage": "https://github.com/peterliu1031/node.js_test#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
